@@ -1,0 +1,5 @@
+Name	Price	Stock
+apples	1.25	2
+chips	1.5	5
+fruit_snacks	2.5	4
+gummies	2	4

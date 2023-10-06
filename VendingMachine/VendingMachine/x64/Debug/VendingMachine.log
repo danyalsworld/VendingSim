@@ -1,0 +1,5 @@
+﻿  VendingMachine.cpp
+C:\Users\saya\source\repos\VendingMachine\VendingMachine\VendingMachine.cpp(102,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saya\source\repos\VendingMachine\VendingMachine\VendingMachine.cpp(103,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saya\source\repos\VendingMachine\VendingMachine\VendingMachine.cpp(178,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  VendingMachine.vcxproj -> C:\Users\saya\source\repos\VendingMachine\x64\Debug\VendingMachine.exe
